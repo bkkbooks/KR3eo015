@@ -1,0 +1,147 @@
+canonical_identifier: bkk:krp/KR3eo015/v1
+canonical_location: https://kanripo.org/bkk/KR3eo015/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 攝生要義
+  identifiers:
+    krp: KR3eo015
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04360
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo015.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo015_000.yaml, hash: 'sha256:3757aa60dcbb944dd17a5e420e486b2ce614c08fd169eaa5467e4db42764cbcb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo015_000.markers.yaml, hash: 'sha256:1509e63b4e197594e341616109877b7b0ea6b10e6a03cafd8902cd6b606f0d76'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 202
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d13.h1s1
+    span:
+    - front
+    - 202
+    - 437
+  label: 後序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1041
+  label: 存想篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d4.h1s1
+    span:
+    - body
+    - 1041
+    - 1661
+  label: 調氣篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d5.h1s1
+    span:
+    - body
+    - 1661
+    - 2302
+  label: 按摩篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d6.h1s1
+    span:
+    - body
+    - 2302
+    - 3021
+  label: 導引篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d7.h1s1
+    span:
+    - body
+    - 3021
+    - 4085
+  label: 形景篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d8.h1s1
+    span:
+    - body
+    - 4085
+    - 4913
+  label: 飲食篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d9.h1s1
+    span:
+    - body
+    - 4913
+    - 5480
+  label: 居處篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d10.h1s1
+    span:
+    - body
+    - 5480
+    - 6169
+  label: 房中篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d11.h1s1
+    span:
+    - body
+    - 6169
+    - 7255
+  label: 四時篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo015_jc_000-d12.h1s1
+    span:
+    - body
+    - 7255
+    - 8291
+  label: 雜忌篇
+  type: section
+  level: 1
+hash: sha256:60fbcc7af8672aa39ee652c90f8b72d76443bd742afc8504c9fbdcd5d91fd1c2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
