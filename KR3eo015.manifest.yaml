@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo015/v1
 canonical_location: https://kanripo.org/bkk/KR3eo015/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 攝生要義
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo015_000.yaml, hash: 'sha256:30d7d29f194ad44555f5743d4dbf9b1c7050f086ff95811aac6d4bc05d777bfa'}
+  - {seq: 0, filename: KR3eo015_000.yaml, hash: 'sha256:ab5ce2857a90d346db8ae610ebfae2ad4eb34f00cfc0d15371e66b576627d889'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo015_000.markers.yaml, hash: 'sha256:03fc8c2834d34e6dc9132b4cb325aa9ff7d361b3c4eae7ee18c85945fda6d480'}
+  - {seq: 0, role: markers, filename: assets/KR3eo015_000.markers.yaml, hash: 'sha256:5b103cca04a8395f13512a7665b0047e7f13139b408566a861f10a41bfc2c4c3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -141,4 +141,7 @@ table_of_contents:
   label: 雜忌篇
   type: section
   level: 1
-hash: sha256:a064e5c4c5bde6b22915f6b247557d01ff48cc59ff59b434aee234a3113e18f5
+hash: sha256:52de9a46f5891c71924dc84a9bf87df7d51c165b38d09f0b02fd78c37e732c3b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
